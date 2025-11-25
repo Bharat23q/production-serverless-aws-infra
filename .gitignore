@@ -1,0 +1,13 @@
+# Terraform working directory (DON'T COMMIT PROVIDERS)
+infra/.terraform/
+
+# Local Python virtual environments
+.venv/
+src/.venv/
+
+# Lambda build artifact
+lambda_package.zip
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
